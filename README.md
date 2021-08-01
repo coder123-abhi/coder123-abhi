@@ -1,8 +1,8 @@
 # Hello, this is Abhigyan Khaund 👋
 
-##👀 I am interested in Full stack Development
+👀 I am interested in Full stack Development
 
-##🌱 Projects I have Worked on:-
+🌱 Projects I have Worked on:-
 
 1) Group Chat Application
 2) Weather App
