@@ -11,7 +11,7 @@
 5) Fitness app
 6) Currently working on a twitter clone website project
 
-##📫 How to reach me:-
+📫 How to reach me:-
 
 1) abhigyankhaund92@gmail.com
 2) 1804074@kiit.ac.in
