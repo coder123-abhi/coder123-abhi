@@ -9,7 +9,7 @@
 3) Snakes and Ladder game
 4) GPS system using ESP12E node mcu, Neo6m module and Node js
 5) Fitness app
-6) Currently working on a twitter clone website project
+6) twitter clone website project
 
 📫 How to reach me:-
 
